@@ -1,0 +1,45 @@
+{
+    "dev_role": "1110269098937552996",
+    "stjerne_role": "1110269098945958004",
+    "odin_id": "1010968479874171020",
+
+    "ansøgning_channel": "1142524882870075442",
+    "ansøgning_category": "1110269100938236037",
+
+    "whitelist_channel": "1142493203044503584",
+    "whitelist_category": "1142484403881255043",
+    "whitelist_role": "1110269098576851028",
+    "whitelist_afventerRole": "1110269098576851026",
+
+    "serverdrift_channel": "1142524882870075442",
+    
+    "ticket_channel": "1142524882870075442",
+    "ticket_category": "1142509915299119274",
+
+    "faq_channel": "1142524882870075442",
+
+    "twitch_channel": "1142524882870075442",
+    "youtube_channel": "1142524882870075442",
+    "youtube_id": "UCU5WcNLr98rBnBAJAzQSIgA",
+
+    "regler_channel": "1141365432058642465",
+
+    "pingrolle_channel": "1142524882870075442",
+    "ping_role": "",
+
+    "kontrolpanel_channel": "1142524882870075442",
+    "kontrolpanel_startcmd": "./cmd/starter.cmd",
+    "kontrolpanel_stopcmd": "./cmd/stopper.cmd",
+    "kontrolpanel_title": "Cfx.re Server (FXServer/unknown) - ZunDev Development Server!",
+    "kontrolpanel_fxserver": "FXServer.exe",
+    "kontrolpanel_killingtitle": "ac-panel: KILLING...",
+    "kontrolpanel_serverpath": "C:\\Users\\Zuntie\\Documents\\Developer\\FXServer\\Starter.bat",
+
+    "log_channel": "1142524882870075442",
+
+    "dms": true,
+    "guild": "1141365432058642462",
+
+    "ip": "65.108.227.254",
+    "port": 30120
+}
